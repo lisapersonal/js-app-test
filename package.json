@@ -109,7 +109,7 @@
   },
   "dependencies": {
     "@mattkrick/sanitize-svg": "^0.3.1",
-    "@redwoodjs/api": "^3.0.0",
+    "@redwoodjs/api": "^4.0.0",
     "@stoqey/gnuplot": "^0.0.3",
     "body-parser": "^1.19.0",
     "check-dependencies": "^1.1.0",
@@ -194,7 +194,7 @@
     "svg-captcha": "^1.4.0",
     "swagger-ui-express": "^4.1.4",
     "ts-node-dev": "^1.1.6",
-    "undici": "^5.19.0",
+    "undici": "^5.28.3",
     "unzipper": "0.9.15",
     "vm2": "^3.9.0",
     "wifey": "^2.0.6",
